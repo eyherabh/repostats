@@ -1,2 +1,2 @@
 # repostats
-Collection of codes for computing interesting repository statistics (e.g. CRAN)
+Future recollection of codes for computing interesting repository statistics (e.g. CRAN)
